@@ -5,7 +5,7 @@ int main() {
 
     printf("Entrez le premier nombre (a) : ");
     scanf("%f", &a);
-
+    
     printf("Entrez le deuxième nombre (b) : ");
     scanf("%f", &b);
 
